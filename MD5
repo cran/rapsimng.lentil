@@ -1,0 +1,14 @@
+64e817574f7e0974d8f832568fa397cc *DESCRIPTION
+2ea7e07e4f644b46e477865f0f28b759 *LICENSE
+7a5d3f2d1aca4d0d42f1c7332c7ba292 *NAMESPACE
+498a55b604831d9d70e1811b8b80ba3d *R/options.R
+30e14016e356d02c127b6e381e58affa *R/thermal_time.R
+2b3158a123d28b3e0b7aa83ccd2bc92e *R/vernalisation_time.R
+b9fee25f1a4208fab7fcecccd27d7ba0 *README.md
+182272465dda8a08bbdbbb01bd7846c3 *man/lentil.Rd
+8abbf25546194c1198f441821ed38e17 *man/thermal_time.Rd
+9f5bf471d3c8921a397512368fd43b93 *man/vernalisation_days.Rd
+4e905bb5dae776a2736b25cc49dab30a *tests/testthat.R
+ff293426506750bba9e2fd5f01a9368b *tests/testthat/test-options.R
+f4be8820f223e2b6f03fdc3696e5e532 *tests/testthat/test-thermal_time.R
+419be726de2c85b89b86e45aee7f98a9 *tests/testthat/test-vernalisation_time.R

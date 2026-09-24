@@ -1,0 +1,26 @@
+Package: rapsimng.lentil
+Title: Crop-Specific Functions and Parameters for APSIM Next Generation
+        Lentil Model
+Version: 0.1.0
+Authors@R: 
+    person("Bangyou", "Zheng", email = "zheng.bangyou@gmail.com", role = c("aut", "cre"))
+Description: Provides lentil-specific functions, processes and parameter sets used by
+    lentil model in the Agricultural Production Systems sIMulator ('APSIM') Next Generation.
+    Includes tools for crop process calculations, parameter management and customisation, 
+    enabling users to explore, modify and apply lentil model components.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: optree (>= 0.1.1), tidyweather (>= 0.3.0)
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://lentil.rapsimng.bangyou.me/,
+        https://github.com/byzheng/rapsimng.lentil
+BugReports: https://github.com/byzheng/rapsimng.lentil/issues
+Config/roxygen2/version: 8.1.0
+NeedsCompilation: no
+Packaged: 2026-09-14 05:20:20 UTC; zhe00a
+Author: Bangyou Zheng [aut, cre]
+Maintainer: Bangyou Zheng <zheng.bangyou@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-09-24 05:00:08 UTC
